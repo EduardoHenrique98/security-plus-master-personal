@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "certificationId": "comptia-security-plus",
+  "latestExamCode": "SY0-701",
+  "latestExamVersion": "V7",
+  "courseExamCode": "SY0-701",
+  "courseExamVersion": "V7",
+  "status": "active",
+  "contentUpdateRequired": false,
+  "lastOfficialCheck": "2026-07-21T00:00:00.000Z",
+  "sourceUrl": "https://www.comptia.org/en-us/certifications/security/",
+  "messagePt": "A versão oficial observada continua a ser a SY0-701 (V7).",
+  "observedExamCodes": ["SY0-701"]
+}
